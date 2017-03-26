@@ -1,2 +1,2 @@
 # hello-world
-Hello World Repository
+A bit about yourself
